@@ -13,7 +13,7 @@ Sectoral scopes
 01 Energy industries (Renewable/Non-Renewable
 Sources)
 
-The details of Project-------- IPP----- --------Capacity------- Location---------------------- Commissioned Date
+The details of Project--------------- IPP----- --------Capacity------- Location---------------------- Commissioned Date
 _________________
 1.2MW Wind
 Power
