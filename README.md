@@ -13,35 +13,25 @@ Sectoral scopes
 01 Energy industries (Renewable/Non-Renewable
 Sources)
 
-The details of Project-------- IPP----- --------Capacity------- Location------ -----------------Net Generation------ Emission Reduction------ Commissioned Date
+The details of Project-------- IPP----- --------Capacity------- Location---------------------- Commissioned Date
 _________________
 1.2MW Wind
 Power
 Project in
-Davangere ------------M/S V. S. Lad & Sons----1.2 MW ---------Davangere district,Karnataka-------20,980MWh--------------18,882 tCO2e/yr------------31/03/2006
+Davangere ------------M/S V. S. Lad & Sons----1.2 MW ---------Davangere district,Karnataka---------31/03/2006
 ___________________________
 6.25 MW
 Wind Power
 Project in
-Gadag---------------M/S V. S.Lad & Sons------6.25MW--------Gadag district,Karnataka------------64,410MWh-------------57,969 tCO2e/yr--------------10/08/2006
+Gadag---------------M/S V. S.Lad & Sons------6.25MW--------Gadag district,Karnataka----------------10/08/2006
 ___________
 3.0 MW Wind
 Power
 Project
-in Chitradurg-------M/S V. S.Lad & Sons-----3.0 MW-------Chitradurg district, Karnataka---------20,710 MWh-------------18,639 tCO2e/yr-----------28/03/2008
+in Chitradurg-------M/S V. S.Lad & Sons-----3.0 MW-------Chitradurg district, Karnataka-------------28/03/2008
+______________
 3.75 MW
 Wind Power
 Project in
-Bellary.
-M/S V. S.
-Lad & Sons
-3.75
-MW
-Bellary
-district,
-Karnataka
-35,279
-MWh
-31,751.1
-tCO2e/yr
-30/09/2005
+Bellary.---------M/S V. S.Lad & Sons-----3.75 MW----------Bellary district, Karnataka---------------30/09/2005
+______________________
