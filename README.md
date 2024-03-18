@@ -23,7 +23,7 @@ ___________________________
 6.25 MW
 Wind Power
 Project in
-Gadag---------------M/S V. S.Lad & Sons------6.25MW--------Gadag district,Karnataka----------------10/08/2006
+Gadag---------------M/S V. S.Lad & Sons------6.25MW--------Gadag district,Karnataka------------10/08/2006
 ___________
 3.0 MW Wind
 Power
